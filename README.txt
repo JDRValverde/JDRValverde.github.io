@@ -1,10 +1,5 @@
-
-
-
 Credits:
-        aj@lkn.io | @ajlkn
-
-	Demo Images:
+        Demo Images:
 		Unsplash (unsplash.com)
 
 	Icons:
